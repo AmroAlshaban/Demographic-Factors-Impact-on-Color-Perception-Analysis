@@ -1,4 +1,4 @@
-# Demographic-Factors-Impact-on-Color-Perception-Analysis
+# Demographic Factors Impact on Color Perception Analysis
 
 This project analyzed data patterns and group interactions using normality, variance, and outlier tests. It applied Balanced Two-Way ANOVA and Tukey Pairwise Comparison to identify significant factor interactions.
 
